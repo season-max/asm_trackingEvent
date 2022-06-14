@@ -44,7 +44,7 @@ dependencies {
 
 apply plugin: 'oms.mmc.autotrack'
 
-import com.xixi.plugin.asm.AutoMethodVisitor
+import com.season.plugin.asm.AutoMethodVisitor
 import org.objectweb.asm.AnnotationVisitor
 import org.objectweb.asm.MethodVisitor
 
